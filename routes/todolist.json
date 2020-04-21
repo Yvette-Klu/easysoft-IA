@@ -1,0 +1,18 @@
+[
+    {
+        "department": "Account department",
+        "task": "1.Audit account, 2.Prepare balance sheet, 3.close all account"
+    },
+    {
+        "department": "IT department",
+        "task": "1.service or computers, 2.install new operating systems, 3.give account of ll bad computers"
+    },
+    {
+        "department": "Field department",
+        "task": "1.monitor all field workers, 2.give account of machines working, 3.service all machines"
+    },
+    {
+        "department": " Customer service department",
+        "task": "1.print out customer issues, 2.give account of total number of customers, 3.attend to new customers"
+    }
+]

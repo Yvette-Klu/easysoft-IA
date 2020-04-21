@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Yvette klu",
+        "department": "Account Department",
+        "employeeID": "12345",
+        "position": "Managing Director",
+        "image": "/images/1.jpg"
+    },
+    {
+        "name": "Dominic Goofy ",
+        "department": "IT Department",
+        " employeeID": "67890",
+        "position": "IT Technician",
+        "image": "/images/2.jpg"
+    },
+    {
+        "name": "Bruce Yaa",
+        "department": "Field Department",
+        "employeeID": "54321",
+        "position": "Operations Manager",
+        "image": "/images/image.jpg"
+    },
+    {
+        "name": "Tashs John",
+        "department": "Customer Service Department",
+        "employeeID": "075753565",
+        "position": "Clerk",
+        "image": "/images/image2.jpg"
+    }
+]
